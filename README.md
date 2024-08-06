@@ -11,24 +11,21 @@
 --> React
 <br/>
 --> Node.Js
-
-<br>
+<br/>
 
 **HTML: HyperText Markup Language**
 
 <hr>
-
-<img align="right" src="/HTML/html.png" height="150px">
-
+<img align='right' src="/HTML/Readme/html.pngl" height="230px">
 <br>
-<p>
-HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).<p>
-<P>
-**"Hypertext"** refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.<P>
+HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).<br>
+<br>
 
+**"Hypertext"** refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.<br>
+<br>
 HTML uses **"Markup"** to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as `<head>`, `<title>`, `<body>`, `<header>`, `<footer>`, `<article>`, `<section>`, `<p>`, `<div>`, `<span>`, `<img>`, `<aside>`, `<audio>`, `<canvas>`, `<datalist>`, `<details>`, `<embed>`, `<nav>`, `<search>`, `<output>`, `<progress>`, `<video>`, `<ul>`, `<ol>`, `<li>` and many others.
 <br>
-
+<br>
 And Many more about HTML
 <br>
 https://developer.mozilla.org/en-US/docs/Web/HTML
@@ -37,7 +34,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 <hr>
 
-<img align="right" src="/CSS/css3.png" height="150px">
+<img align="right" src="/CSS/README/css3.png" height="150px">
 
 <br>
 Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.<br>
