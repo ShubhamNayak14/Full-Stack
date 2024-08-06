@@ -16,7 +16,7 @@
 **HTML: HyperText Markup Language**
 
 <hr>
-<img align='right' src="/HTML/Readme/html.pngl" height="230px">
+<img align='right' src="/HTML/Readme/html.png" height="230px">
 <br>
 HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).<br>
 <br>
