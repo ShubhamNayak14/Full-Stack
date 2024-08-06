@@ -1,17 +1,12 @@
-CSS is the language we use to style a Web page.<br>
-**CSS (Cascade Styling Sheets)** <br>
-<img align='right' src="./css3.png" height='200px'>
+CSS is the language we use to style a We
+<img align='right' src="./css3.png" height='250px'>
 <br>
 
-**What is CSS?**<br>
-CSS stands for Cascading Style Sheets<br>
-CSS describes how HTML elements are to be displayed on screen, paper, or in other media<br>
-CSS saves a lot of work. It can control the layout of multiple web pages all at once<br>
-External stylesheets are stored in CSS files<br>
+**CSS: Cascading Style Sheets**
+Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.<br>
+<br>
+CSS is among the core languages of the open web and is standardized across Web browsers according to W3C specifications. Previously, the development of various parts of CSS specification was done synchronously, which allowed the versioning of the latest recommendations. You might have heard about CSS1, CSS2.1, or even CSS3. There will never be a CSS3 or a CSS4; rather, everything is now just "CSS" with individual CSS modules having version numbers.<br>
+<br>
+After CSS 2.1, the scope of the specification increased significantly and the progress on different CSS modules started to differ so much, that it became more effective to develop and release recommendations separately per module. Instead of versioning the CSS specification, W3C now periodically takes a snapshot of the latest stable state of the CSS specification and individual modules progress. CSS modules now have version numbers, or levels, such as CSS Color Module Level 5.
 
-**Three Ways to Insert CSS**<br>
-There are three ways of inserting a style sheet:<br>
-
-External CSS<br>
-Internal CSS<br>
-Inline CSS<br>
+https://developer.mozilla.org/en-US/docs/Web/CSS
