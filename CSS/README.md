@@ -1,5 +1,5 @@
 CSS is the language we use to style a Web page.<br>
-##CSS (Cascade Styling Sheets) <br>
+**CSS (Cascade Styling Sheets)** <br>
 <img align='right' src="./css3.png" height='200px'>
 <br>
 
