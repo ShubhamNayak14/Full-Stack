@@ -1,5 +1,5 @@
 CSS is the language we use to style a We
-<img align='right' src="./css3.png" height='250px'>
+<img align='right' src="./css.png" height='200px'>
 <br>
 
 **CSS: Cascading Style Sheets**
