@@ -1,5 +1,7 @@
 CSS is the language we use to style a Web page.<br>
 
+<img align='right' src="./css3.png" height='200px'>
+<br>
 ##What is CSS?<br>
 CSS stands for Cascading Style Sheets<br>
 CSS describes how HTML elements are to be displayed on screen, paper, or in other media<br>
